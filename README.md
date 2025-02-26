@@ -30,17 +30,16 @@ npm start<br><br>
 
 API Endpoints  
 
-Method	Endpoint	                       Description <br>
-POST	  /api/auth/register	             Register a new user<br>
-POST	  /api/auth/login	                 Login & get JWT token<br>
-GET	    /api/auth/me	                   Get logged-in user details<br>
-GET	    /api/wallet/balance	             Get wallet balance<br>
-PUT	    /api/wallet/currency             Update Wallet Currency<br>
-POST	  /api/transactions/deposit	       Deposit Funds<br>
-POST	  /api/transactions/transfer	     Transfer Funds with Fraud Detection<br>
-POST    /api/transactions/withdraw	     Withdraw Funds<br>
-GET	    /api/transactions/history	       Get Transaction History<br>
-PUT	    /api/users/set-currency	         Update User Currency Preference<br>
+POST - /api/auth/register - Register a new user<br>
+POST - /api/auth/login - Login & get JWT token<br>
+GET - /api/auth/me - Get logged-in user details<br>
+GET - /api/wallet/balance - Get wallet balance<br>
+PUT - /api/wallet/currency - Update Wallet Currency<br>
+POST - /api/transactions/deposit - Deposit Funds<br>
+POST - /api/transactions/transfer - Transfer Funds with Fraud Detection<br>
+POST - /api/transactions/withdraw - Withdraw Funds<br>
+GET - /api/transactions/history - Get Transaction History<br>
+PUT - /api/users/set-currency - Update User Currency Preference<br>
 
 
 
