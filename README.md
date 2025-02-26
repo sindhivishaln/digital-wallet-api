@@ -30,7 +30,7 @@ npm start
 
 API Endpoints  
 
-Method	Endpoint	                       Description
+Method	Endpoint	                       Description <br>
 POST	  /api/auth/register	             Register a new user
 POST	  /api/auth/login	                 Login & get JWT token
 GET	    /api/auth/me	                   Get logged-in user details
